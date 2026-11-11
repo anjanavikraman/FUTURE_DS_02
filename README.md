@@ -39,7 +39,7 @@ The dashboard includes:
 The project uses the Telco Customer Churn dataset from Kaggle.
 
 ## Project Deliverable
-The final deliverable is an interactive Power BI dashboard (`Customer_Retention_Churn_Analysis.pbix`) presenting customer churn and retention insights.
+The final deliverable is an interactive Power BI dashboard (`FUTURE_DS_02_Customer_Retention_Churn_Analysis.pbix`) presenting customer churn and retention insights.
 
 ## Author
 Created as part of **Future Interns – Data Science & Analytics Internship, Task 2**.
